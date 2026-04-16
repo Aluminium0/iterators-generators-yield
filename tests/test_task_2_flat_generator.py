@@ -4,7 +4,7 @@ import sys
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 
-from flat_generator import flat_generator
+from task_2_flat_generator import flat_generator
 
 
 def test_2():

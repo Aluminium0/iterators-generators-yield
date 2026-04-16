@@ -3,7 +3,7 @@ import sys
 
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 
-from flat_iterator import FlatIterator
+from task_1_flat_iterator import FlatIterator
 
 
 def test_1():

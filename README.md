@@ -12,7 +12,7 @@ Homework for lecture:
 ## How to run
 
 ```bash
-python3 tests/test_flat_iterator.py
-python3 tests/test_flat_generator.py
-python3 tests/test_deep_flat_iterator.py
-python3 tests/test_deep_flat_generator.py
+python3 tests/test_task_1_flat_iterator.py
+python3 tests/test_task_2_flat_generator.py
+python3 tests/test_task_3_deep_flat_iterator.py
+python3 tests/test_task_4_deep_flat_generator.py
