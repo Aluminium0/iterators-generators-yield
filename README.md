@@ -12,4 +12,5 @@ Homework for lecture:
 ## How to run
 
 ```bash
-python tests/test_flat_iterator.py
+python3 tests/test_flat_iterator.py
+python3 tests/test_flat_generator.py
