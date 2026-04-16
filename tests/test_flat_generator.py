@@ -1,3 +1,4 @@
+import types
 from pathlib import Path
 import sys
 
@@ -32,6 +33,8 @@ def test_2():
         2,
         None,
     ]
+
+    assert isinstance(flat_generator(list_of_lists_1), types.GeneratorType)
 
 
 if __name__ == "__main__":
